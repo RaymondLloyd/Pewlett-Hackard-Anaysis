@@ -32,9 +32,7 @@ Pewlett-Hackard is looking for employees that are close to retiring so “retire
 In our first deliverable, we created a “Retirement Table” that holds all the titles of current employees that were born from the start of 1952 to the end of 1955. By manipulating our data and functions, we were able to create the “Retirement Table” that holds the number of retirement age employees by their most recent job “title”.
 
 
-•	The CSV files that were created: [retirement_titles.zip](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412420/retirement_titles.zip)
-
-[unique_titles.zip](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412422/unique_titles.zip)
+•	The CSV files that were created: [retirement_titles.zip](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412420/retirement_titles.zip) , [unique_titles.zip](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412422/unique_titles.zip)
 
   
 
