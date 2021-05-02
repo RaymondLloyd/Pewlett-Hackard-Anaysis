@@ -25,6 +25,7 @@ Pewlett-Hackard is looking for employees that are close to retiring so “retire
 
 •	PostgreSQL, VScode
 
+* QuickDBD : ![EmployeeDB png](https://user-images.githubusercontent.com/79877349/116831445-4fde9a80-ab64-11eb-85d9-b5fd2d4d95da.png)
 
 
 ##  Results:
@@ -51,68 +52,17 @@ In deliverable 2, we created a “Mentorship Eligibility” table that holds the
 
 
 
-## Query’s:
-•	-- Challenge Deliverable 1
+## Quaries:
 
-•	SELECT employees.emp_no,
+* Module Quary: [-- Creating tables for PH-EmployeeDB.txt](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412432/--.Creating.tables.for.PH-EmployeeDB.txt)
 
-•		employees.first_name,
+* Challenge Quaries: [-- Challenge Deliverable 1.txt](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412436/--.Challenge.Deliverable.1.txt) , [--Deliverable 2.txt](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412437/--Deliverable.2.txt)
 
-•		employees.last_name,
-
-•		titles.title,
-
-•		titles.from_date,
-
-•		titles.to_date
-
-•	INTO retirement_titles
-
-•	FROM employees 
-
-•	INNER JOIN titles 
-
-•	ON (employees.emp_no = titles.emp_no)
-
-•	WHERE employees.birth_date BETWEEN '1952-01-01'
-
-•	AND '1955-12-31'
-
-•	ORDER BY emp_no ASC;
-
-
-•	SELECT * FROM retirement_titles;
+ 
 
 
 
 
-•	--Challenge deliverable 2
-
-•	-- Use Dictinct with Orderby to remove duplicate rows
-
-•	SELECT DISTINCT ON (retirement_titles.emp_no) retirement_titles.emp_no,
-
-•		retirement_titles.first_name,
-
-•		retirement_titles.last_name,
-
-•		retirement_titles.title
-
-•	INTO unique_titles
-
-•	FROM retirement_titles
-
-•	ORDER BY emp_no ASC, to_date DESC;	
-
-•	SELECT unique_titles.title, COUNT(title)
-
-•	INTO retiring_titles
-
-•	FROM unique_titles
-
-•	GROUP BY title
-
-•	ORDER BY count DESC;
 
 
 •	SELECT * FROM retiring_titles
