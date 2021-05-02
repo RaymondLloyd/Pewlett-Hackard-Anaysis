@@ -58,14 +58,6 @@ In deliverable 2, we created a “Mentorship Eligibility” table that holds the
 
 * Challenge Quaries: [-- Challenge Deliverable 1.txt](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412436/--.Challenge.Deliverable.1.txt) , [--Deliverable 2.txt](https://github.com/RaymondLloyd/Pewlett-Hackard-Anaysis/files/6412437/--Deliverable.2.txt)
 
- 
-
-
-
-
-
-
-•	SELECT * FROM retiring_titles
 
 
 ## Summary
