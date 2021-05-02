@@ -41,7 +41,8 @@ In our first deliverable, we created a “Retirement Table” that holds all the
 •	The output of the code that created the CSV file: ![Screenshot (65)](https://user-images.githubusercontent.com/79877349/116831009-d8a80700-ab61-11eb-8c9a-8537d17d9f93.png)
  
 
-•	The output of the created table “Retiring Titles”: ![Screenshot (69)](https://user-images.githubusercontent.com/79877349/116831012-dcd42480-ab61-11eb-8afe-1cc1f9e48de6.png)
+•	The output of the created table “Retiring Titles”:
+![Screenshot (69)](https://user-images.githubusercontent.com/79877349/116831012-dcd42480-ab61-11eb-8afe-1cc1f9e48de6.png)
  
 
 
