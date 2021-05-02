@@ -42,6 +42,7 @@ In our first deliverable, we created a “Retirement Table” that holds all the
  
 
 •	The output of the created table “Retiring Titles”:
+
 ![Screenshot (69)](https://user-images.githubusercontent.com/79877349/116831012-dcd42480-ab61-11eb-8afe-1cc1f9e48de6.png)
  
 
