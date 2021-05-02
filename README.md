@@ -25,7 +25,8 @@ Pewlett-Hackard is looking for employees that are close to retiring so “retire
 
 •	PostgreSQL, VScode
 
-* QuickDBD : ![EmployeeDB png](https://user-images.githubusercontent.com/79877349/116831445-4fde9a80-ab64-11eb-85d9-b5fd2d4d95da.png)
+* QuickDBD :
+*  ![EmployeeDB png](https://user-images.githubusercontent.com/79877349/116831445-4fde9a80-ab64-11eb-85d9-b5fd2d4d95da.png)
 
 
 ##  Results:
