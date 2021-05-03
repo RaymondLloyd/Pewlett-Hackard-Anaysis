@@ -65,4 +65,9 @@ In deliverable 2, we created a “Mentorship Eligibility” table that holds the
 
 ## Summary
 
+Our analysis was done to help Pewlett-Hackard determine which employees were close to retiring and what their corresponding job titles are. We were able to take the company data (CSV file) and make new data tables with the columns and data needed for our project. The tables provided in .png form show us the “titles” from employees born in 1952-1955 range. That range is important because those will be the employees who will be retirement eligible in the near future. This will give P-H the info needed to see which job will have to be filled. 
+
+Another table was built to see the amount of employees that were retiring from each of the specific job titles at the company. This can help P-H decide where to invest more resources for future development.
+
+In the 3rd table we were tasked with creating a “mentorship eligible”  table that tells us which current employee was born in 1965. This table was produced to show us which employees might be “the next man up” when the retiring employees retire. It shows us the employee tenure as well as the job title.
 
